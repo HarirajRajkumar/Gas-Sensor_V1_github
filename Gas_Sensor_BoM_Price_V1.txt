@@ -1,0 +1,16 @@
+Major components
+Gas Sensor V1 - Bill of Materials
+
+Arduino UNO - Rs 1400
+Buzzer - Rs 25
+0.9V to 5V convertor - Rs 300
+18650 2200mAH cell - Rs400
+TP 4056 Li-ion Charger module -Rs 100
+230VAC to 5VDC @800mA module - Rs 250
+MQ-6 LPG detector Module - RS 250
+I2C to LCD module -RS 160
+16x2 LCD module - RS 170
+DHT22 RH%/Temperature module - Rs 300
+
+Total - Rs 3,355
+ 
